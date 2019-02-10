@@ -1,5 +1,5 @@
 # Archived Projects 
-### Small projects or earlier versions of projects that were more fully developed. 
+### Small projects and earlier project versions
 
 ##### 2.9.19
 - added birthday calculations and hosting blackjack projects
