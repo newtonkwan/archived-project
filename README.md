@@ -1,8 +1,9 @@
-# royal_game_of_ur
-An attempt to replicate DeepMind's AlphaGo Zero algorithm to create an agent that masters the Royal Game of Ur. 
+# Archived Projects 
+### These are small projects (one Jupyter notebook) or earlier versions of projects that were more fully developed. 
 
-1/30/19 
-
-Version 1.0 is no longer being developed. Version 2.0 is the most current build and can be found in the repository called royal-game-of-ur. The main switch is from jupyter notebooks to building using sublime text. A new repository has been created to house the version 2.0. Please see that repository. 
+##### 2.9.19
+- added birthday calculations and hosting blackjack projects
+##### 1.30.19 
+- the Royal Game of Ur v1.0 has been put here. Version 2.0 (actively developed) can be found in the repository royal-game-of-ur.
 
 
