@@ -1,5 +1,5 @@
 # Archived Projects 
-### These are small projects (one Jupyter notebook) or earlier versions of projects that were more fully developed. 
+### Small projects (one Jupyter notebook) or earlier versions of projects that were more fully developed. 
 
 ##### 2.9.19
 - added birthday calculations and hosting blackjack projects
